@@ -6,7 +6,14 @@
 
 Using AI to analyze ERM RT tickets
 
-## Project Organization
+## About
+
+Motivation and background in a nutshell.
+
+- **Vision:** One sentence capturing the project's overarching vision.
+- **Mission:** One sentence defining the project's goals and target audience.
+
+### Project Organization
 
 ```
 ├── LICENSE            <- Open-source license if one is chosen
@@ -25,6 +32,8 @@ Using AI to analyze ERM RT tickets
 ├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
 │                         the creator's initials, and a short `-` delimited description, e.g.
 │                         `1.0-jqp-initial-data-exploration`.
+│
+├── project_management <- Project planning and policy documentation 
 │
 ├── pyproject.toml     <- Project configuration file with package metadata for 
 │                         AI_Analysis_of_RT and configuration for tools like black
@@ -55,4 +64,32 @@ Using AI to analyze ERM RT tickets
     └── plots.py                <- Code to create visualizations
 ```
 
---------
+## Roadmap & Milestones
+
+- **Goals:** Clear overview of overarching and short-term goals.
+- **Outcomes:** Description of expected results and deliverables.
+
+## The Team
+
+- **Members:** List of team members and their roles in the project.
+- **Roles & Responsibilities:** [Team Directory](link-to-directory) outlines roles, responsibilities and their ways of working.
+
+## Licensing
+
+Clearly define the license under which the repository's work is shared.
+
+## Citations
+
+### Bibliography
+
+This repository is based off the Cookiecutter Data Science with the project management folder and main README enhanced with content from the Reproducible Project Template.
+- Cookiecutter Data Science is created and maintained by DrivenData and shared under a MIT license: https://github.com/drivendataorg/cookiecutter-data-science.
+- Reproducible Project Template is created and maintained by The Turing Way team members and shared under CC-BY 4.0 for reuse: https://github.com/alan-turing-institute/reproducible-project-template.
+
+### Citation Instructions
+
+How to cite the project.
+
+## Contact
+
+- **Reach Out:** Contact details for questions, feedback, or ideas.
